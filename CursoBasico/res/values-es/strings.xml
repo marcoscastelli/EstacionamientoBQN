@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gestor de descargas</string>
+    <string name="user">Ingrese Usuario</string>
+    <string name="pass">Ingrese Contraseña</string>
+    <string name="action_settings">Preferencias</string>
+    <string name="TextBtnLogin">Iniciar Sesión</string>
+    <string name="title_activity_validar_login">User:</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Download Manager</string>
+    <string name="welcome">Files download manager.</string>
+    <string name="user">User</string>
+    <string name="pass">Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="TextBtnLogin">Login</string>
+    <string name="title_activity_validar_login">User:</string>
+    <string name="filesTextView">Files:</string>
+    <string name="spinnerTitle">Choose File</string>
+    <string name="files">Files</string>
+    <string name="errorLoginMsg">Invalid User or Password. Please, try again.</string>
+    <string name="title_activity_gestionar_decarga">User:</string>
+    <string name="buttonDownload">Start Download</string>
+    <string name="titleStartDownload">Downloading...</string>
+    <string name="titleFinishDownload">Downolad successful.</string>
+
+</resources>

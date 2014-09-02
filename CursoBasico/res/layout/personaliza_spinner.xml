@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+   
+    <ImageView
+        android:id="@+id/iconSpinner"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:contentDescription="Icono"
+        android:src="@drawable/zip_ic" />
+
+    <TextView
+        android:id="@+id/editTextSpinnerName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/iconSpinner"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/iconSpinner"
+        android:ems="10" >
+
+	</TextView>>
+
+    <TextView
+        android:id="@+id/editTextSpinnerSize"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/editTextSpinnerName"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/editTextSpinnerName"
+        android:ems="10" >
+
+	</TextView>
+
+</RelativeLayout>
