@@ -53,11 +53,9 @@ public class ConsultarInfraccionesActivity extends Activity implements
 		token = bundle.getString("tokenSession");
 		user =  bundle.getString("UserLoged");
 				
-		//mTitle = getTitle();
-        //Se setea el titulo de la actividad
-        mTitle=getResources().getString(R.string.homeUser).toString();
-        mTitle=mTitle+" "+user;
-        setTitle(mTitle);
+		mTitle = getTitle();
+		
+        
 	}
 
 	@Override
