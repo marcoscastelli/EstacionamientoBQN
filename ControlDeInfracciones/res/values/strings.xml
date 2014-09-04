@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Control de Infracciones</string>
+    <string name="homeText">Bienvenido al sistema de control de infracciones de la Intendencia de Salto.</string>
+    <string name="action_settings">Preferencias</string>
+    <string name="homeUser">Usuario</string>
+    <string name="homePass">Contraseña</string>
+    <string name="homeBtn">Iniciar Sesión</string>
+    <string name="title_activity_validar_login">ValidarLoginActivity</string>
+    <string name="title_activity_consultar_infracciones">ConsultarInfraccionesActivity</string>
+    <string name="title_section1">Consultar</string>
+    <string name="title_section2">Historico</string>
+    <string name="title_section3">Cerrar Sesión</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Realizar Consulta</string>
+    <string name="errorLoginMsg">Usuario y/o contraseña incorrecto. Por favor intente nuevamente.</string>
+
+</resources>
